@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<Context>
+	<!-- datasource用 目前用的schema是seeker_fong_schemas -->
+	<Resource name="jdbc/datasource" 
+		type="javax.sql.DataSource"
+		driverClassName="com.mysql.cj.jdbc.Driver"
+		jdbcUrl="jdbc:mysql://localhost:3306/XXXXX?useUnicode=yes&amp;characterEncoding=utf8&amp;useSSL=true&amp;serverTimezone=Asia/Taipei"
+		username="XXXX" 
+		password="XXXX"
+		factory="com.zaxxer.hikari.HikariJNDIFactory"
+		minimumIdle="5"
+		maximumPoolSize="10" 
+		connectionTimeout="30000" />
+
+</Context>
+
+<!--   -->
