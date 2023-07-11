@@ -8,7 +8,7 @@
 
 ## 技術使用
 #### 專案建立：Maven Project
-#### 前端技術：HTML、CSS、JavaScript、JQuery、RWD、AJAX
+#### 前端技術：HTML、CSS、JavaScript、JQuery、AJAX
 #### 後端技術：MVC 架構 + Servlet + JDBC
 #### 資料庫使用：MySQL、Redis
 
