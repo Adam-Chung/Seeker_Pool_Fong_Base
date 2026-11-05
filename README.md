@@ -50,4 +50,7 @@ Spring Boot／Spring Data JPA 版本 / Spring Boot and Spring Data JPA version: 
 
 ## 補充
 #### 功能簡報說明：https://pse.is/559wbx
+#### Feature Presentation: https://pse.is/559wbx
+
 #### 功能畫面演示：https://yt1.piee.pw/5522yj
+#### Feature Demo Video: https://yt1.piee.pw/5522yj
